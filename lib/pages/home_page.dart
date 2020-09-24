@@ -31,10 +31,6 @@ class HomePage extends StatelessWidget {
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
-                RaisedButton(
-                  onPressed: () {},
-                  child: Text("Tema personalizado"),
-                )
               ],
             ),
           )),
