@@ -20,7 +20,6 @@ class HomePage extends StatelessWidget {
               children: [
                 RaisedButton(
                   onPressed: themeController.asignarTemaClaro,
-                  color: Colors.white,
                   child: Text("Tema claro"),
                 ),
                 RaisedButton(
